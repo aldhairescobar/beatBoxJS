@@ -11,8 +11,12 @@ https://aldhairescobar.github.io/beatBoxJS/
 
 
 ## Built with
+
 *JavaScript
+
 *HTML
+
 *CSS
+
 
 *This project was a challenge from "profit with JavaScript" course.
